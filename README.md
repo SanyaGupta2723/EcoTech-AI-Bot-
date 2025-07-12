@@ -2,7 +2,7 @@
 
 EcoTech Advisor is an AI-powered chatbot platform built to guide users in making sustainable tech decisions — especially around **e-waste management** and **responsible recycling**. It helps users discover nearby recycling centers, offers eco-friendly device disposal tips, and educates on reducing digital carbon footprints.
 
-Live project :- https://greentechaibot.netlify.app/
+Live project :-https://ecotechbot.netlify.app/
 
 
 ## 💡 Features
