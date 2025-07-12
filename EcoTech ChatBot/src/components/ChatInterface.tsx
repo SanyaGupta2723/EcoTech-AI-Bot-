@@ -296,7 +296,7 @@ const ChatInterface: React.FC = () => {
       const errorMessage: Message = {
         id: (Date.now() + 1).toString(),
         type: 'bot',
-        content: addEmojisToResponse("I'm sorry, I couldn't connect to the service. Please check your internet connection or try again later. 🔌❌"),
+        content: addEmojisToResponse("I'm sorry, I couldn't connect to the service. Please enter valid API key🔌❌"),
         timestamp: new Date(),
       };
       setMessages(prev => [...prev, errorMessage]);
