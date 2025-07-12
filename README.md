@@ -40,15 +40,11 @@ Live project :- https://greentechaibot.netlify.app/
 
 ## 📦 How to Use
 
-1. Clone the repo  
-   bash
-   git clone https://github.com/your-username/ecotech-advisor.git
-
-2. Install dependencies
+1. Install dependencies
    cd ecotech-advisor  
    npm install
 
-3. Run the project locally
+2. Run the project locally
    run 'node server.js' in sever.js file in terminal
    run 'npm run dev' for frontend project
 
